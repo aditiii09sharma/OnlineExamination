@@ -1,3 +1,6 @@
+<div id="timer"></div>
+<a href="LogoutServlet">Logout</a> 
+
 <script>
     var timeLeft = 300; // in seconds
     var timerId = setInterval(function() {
